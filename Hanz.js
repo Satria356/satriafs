@@ -83,7 +83,7 @@ const checkSCommand = (id) => {
     })
     return status
 }
-//BY HANZ々OFC彡
+//Fahri-BY HANZ々OFC彡
 baterai = {
 battery: "" || "Tidak Terdeteksi",
 isCharge: "" || false
@@ -96,12 +96,12 @@ publik = true
 Nogopay = 083144394823
 Nodana = 083144394823
 Noovo = 083144394823
-owner = setting.OwnerNumber
-botname = setting.BotName
+owner = setting.083168004413
+botname = setting.FahriBotz
 lolkey = setting.HanzKey
 Hanzkey = setting.hanzKey
-ownername = setting.OwnerName
-asutes = 'HANZ々OFC彡[BOTZ🎭]'
+ownername = setting.Fahri
+asutes = 'HANZ々Fahri彡[BOTZ🎭]'
 creator = 'ʜᴀɴᴢ々ᴏꜰᴄ' // GAK USAH DI UBAH
 fakeimage = fs.readFileSync("./media/thumnail.jpg")
 //━━━━━━━━━━━━━━━[ MODUL EXPORTS ]━━━━━━━━━━━━━━━━━//
@@ -173,7 +173,7 @@ admin: '*☒* Fitur ini hanya untuk *ADMIN GRUP*',
 group: '*☒* Fitur ini hanya untuk *GRUP*'
 }
 }
-		faketeks = 'HANZ々OFC彡'
+		faketeks = 'Fahri-HANZ々OFC彡'
 		const isUrl = (url) => {
         return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%.+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%+.~#?&/=]*)/, 'gi'))
         }
@@ -400,9 +400,9 @@ orderMessage: {
 itemCount : 2022,
 status: 1,
 surface : 1,
-message: `ʜᴀɴᴢ々ᴏꜰᴄ`, 
-orderTitle: `ʜᴀɴᴢ々ᴏꜰᴄ`,
-thumbnail: Hanz, //Gambarnye
+message: `Fahri-ʜᴀɴᴢ々ᴏꜰᴄ`, 
+orderTitle: `Fahri-ʜᴀɴᴢ々ᴏꜰᴄ`,
+thumbnail: Fahri-Hanz, //Gambarnye
 sellerJid: '0@s.whatsapp.net' 
 }
 }
@@ -678,7 +678,7 @@ res = await Hanz.prepareMessageFromContent(from,{
  case 'musikmenu':
 res = await Hanz.prepareMessageFromContent(from,{
 "listMessage": {
-"title": 'MENU MUSIK 🔊\nBY : HANZ々OFC彡',
+"title": 'MENU MUSIK 🔊\nBY : Fahri-HANZ々OFC彡',
 "description": `▬▭▬▭▬▭▬▭▬▬▭▬▭▬\nSUBSCRIBE\nhttps://youtube.com/HANZ々OFC彡\nSUBSCRIBE AND LIKE\n▬▭▬▭▬▭▬▭▬▬▭▬▭▬`,
 "buttonText": "MENU️",
 "listType": "SINGLE_SELECT",
@@ -833,7 +833,7 @@ case 'groupmenu':
 ├ ◦➛ ${prefix}setname
 ├ ◦➛ ${prefix}hidetag
 └❏`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©FahriGans-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'OK👌' }, type: 1 }])
 break	
@@ -845,7 +845,7 @@ case 'stickermenu':
 ├ ◦➛ ${prefix}tomp3
 ├ ◦➛ ${prefix}tovideo
 └❏`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Satria-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'OK👌' }, type: 1 }])
 break	
@@ -875,7 +875,7 @@ case 'ownermenu':
 ├ ◦➛ ${prefix}bcbut
 ├ ◦➛ ${prefix}report
 └❏`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'OK👌' }, type: 1 }])
 break	
@@ -889,7 +889,7 @@ case 'donlotmenu':
 ├ ◦➛ ${prefix}tiktokmusic
 ├ ◦➛ ${prefix}pinterest
 └❏`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'OK👌' }, type: 1 }])
 break	
@@ -921,7 +921,7 @@ case 'infomenu':
 ├ ◦➛ ${prefix}covidindo
 ├ ◦➛ ${prefix}covidglobal
 └❏`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri°кïʟ̸ʟєя乡-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'OK👌' }, type: 1 }])
 break	
@@ -935,7 +935,7 @@ case 'randommenu':
 ├ ◦➛ ${prefix}katabijak
 ├ ◦➛ ${prefix}randomnama
 └❏`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri°кïʟ̸ʟєя乡-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'OK👌' }, type: 1 }])
 break	
@@ -945,7 +945,7 @@ case 'detik':
 ├ ◦➛ ${prefix}detikvn
 ├ ◦➛ ${prefix}detikvideo
 └❏`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri°кïʟ̸ʟєя乡-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'OK👌' }, type: 1 }])
 break	
@@ -958,7 +958,7 @@ case 'searchmenu':
 ├ ◦➛ ${prefix}shopee
 ├ ◦➛ ${prefix}google
 └❏`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri°кïʟ̸ʟєя乡-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'OK👌' }, type: 1 }])
 break	
@@ -970,7 +970,7 @@ case 'primbonmenu':
 ├ ◦➛ ${prefix}jadian
 ├ ◦➛ ${prefix}tebakumur
 └❏`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri°кïʟ̸ʟєя乡-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'OK👌' }, type: 1 }])
 break	
@@ -981,7 +981,7 @@ case 'stalkmenu':
 ├ ◦➛ ${prefix}stalktiktok
 ├ ◦➛ ${prefix}stalkgithub
 └❏`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri°кïʟ̸ʟєя乡-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'OK👌' }, type: 1 }])
 break	
@@ -995,7 +995,7 @@ case 'cecanmenu':
 ├ ◦➛ ${prefix}cecanjapan
 ├ ◦➛ ${prefix}cecanthailand
 └❏`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri°кïʟ̸ʟєя乡-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'OK👌' }, type: 1 }])
 break	
@@ -1013,7 +1013,7 @@ case 'gamemenu':
 ├ ◦➛ ${prefix}tebakkalimat
 ├ ◦➛ ${prefix}tembak
 └❏`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri°кïʟ̸ʟєя乡-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'OK👌' }, type: 1 }])
 break
@@ -1031,7 +1031,7 @@ case 'infobotmenu':
 ├ ◦➛ ${prefix}tebakkalimat
 ├ ◦➛ ${prefix}tembak
 └❏`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri°кïʟ̸ʟєя乡-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'OK👌' }, type: 1 }])
 break
@@ -1043,7 +1043,7 @@ case 'asupan':
 ├ ◦➛ ${prefix}lnkbokep
 ├ ◦➛ ${prefix}kodenuklir
 └❏`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri°кïʟ̸ʟєя乡-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'OK👌' }, type: 1 }])
 break
@@ -1071,7 +1071,7 @@ case 'makermenu':
 │◦➛${prefix}coffeecup
 │◦➛${prefix}coffeecup2
 └❏`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri°кïʟ̸ʟєя乡-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'OK👌' }, type: 1 }])
 break
@@ -2291,7 +2291,7 @@ case 'bokep1':
         sendButtonLocation(from, 
         `YAHH SANGEAN📸
 *NIH BAHAN COLI BUAT KALIAN :v*\nLink Download \n\nhttps://www.mediafire.com/file/h2nygxbyb6n9cyo/VID-20210107-WA1468.mp4/file`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri°кïʟ̸ʟєя乡-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'GW SANGE DAN AKU BANGGA🗿' }, type: 1 }])
@@ -2300,7 +2300,7 @@ case 'bokep2':
         sendButtonLocation(from, 
         `YAHH SANGEAN📸
 *NIH BAHAN COLI BUAT KALIAN :v*\nLink Download \n\nhttps://www.mediafire.com/file/pk8hozohzdc076c/VID-20210107-WA1466.mp4/file`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri°кïʟ̸ʟєя乡-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'GW SANGE DAN AKU BANGGA🗿' }, type: 1 }])
@@ -2309,7 +2309,7 @@ case 'bokep3':
         sendButtonLocation(from, 
         `YAHH SANGEAN📸
 *NIH BAHAN COLI BUAT KALIAN :v*\nLink Download \n\nhttps://www.mediafire.com/file/112q3u286tnvzjo/VID-20210107-WA1467.3gp/file`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri°кïʟ̸ʟєя乡-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'GW SANGE DAN AKU BANGGA🗿' }, type: 1 }])
@@ -2318,7 +2318,7 @@ case 'bokep4':
         sendButtonLocation(from, 
         `YAHH SANGEAN📸
 *NIH BAHAN COLI BUAT KALIAN :v*\nLink Download \n\nhttps://www.mediafire.com/file/arpphhxsv94ak0r/VID-20210107-WA1462.mp4/file`,
- `©ԋαɳȥ々σϝƈ`, 
+ `©Fahri°кïʟ̸ʟєя乡-ԋαɳȥ々σϝƈ`, 
 {jpegThumbnail:fs.readFileSync(`./media/Bot.jpg`)}, 
 
 [{ buttonId: `${prefix}kkk`, buttonText: { displayText: 'GW SANGE DAN AKU BANGGA🗿' }, type: 1 }])
